@@ -1,3 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/raw-roblox/PrivateServerBypass/refs/heads/main/lua"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/Venyx/main/VenyxHub"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkyLarp67/Fpsboost-script-all-games/refs/heads/main/Skylarp%20otimiza%C3%A7%C3%A3o"))()
