@@ -1,0 +1,303 @@
+{
+    "AcceleratorUpdateOnPropsAndValueTimeChange": "True",
+
+    "ActivatedCountTimerMSKeyboard": "300",
+    "ActivatedCountTimerMSMouse": "300",
+
+    "AnimationLodFacsVisibilityDenominator": "2",
+    "AnimationLodFacsDistanceMax": "50",
+    "AnimationLodFacsDistanceMin": "10",
+
+    "BatchThumbnailResultsSizeCap": "200",
+
+    "BufferCompressionLevel": "0",
+
+    "CanHideGuiGroupId": "32380007",
+
+    "CheckPVDifferencesForInterpolationMinRotVelThresholdRadsPerSecHundredth": "0",
+    "CheckPVDifferencesForInterpolationMinVelThresholdStudsPerSecHundredth": "0",
+
+    "CLI20390_2": "0",
+
+    "ClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
+    "ClientNetworkInfluxHundredthsPercentage": "0",
+    "ClientPacketHealthyAllocationPercent": "20",
+    "ClientPacketExcessMicroseconds": "1000",
+    "ClientPacketMaxDelayMs": "1",
+
+    "ClusterEstimatedCompressionRatioHundredths": "0",
+    "ClusterCompressionLevel": "0",
+
+    "CodecMaxIncomingPackets": "100",
+
+    "DebugMechanismInterpolationWorldSpace": "True",
+    "DebugRenderingSetDeterministic": "True",
+    "DebugCheckRenderThreading": "True",
+    "DebugFRMQualityLevelOverride": "1",
+    "DebugGraphicsPreferD3D11": "True",
+    "DebugTextureManagerSkipMips": "8",
+    "DebugPauseVoxelizer": "True",
+    "DebugForceMSAASamples": "0",
+    "DebugPerfMode": "True",
+
+    "DefaultJitterN": "0",
+
+    "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
+    "DFFlagTeleportClientAssetPreloadingEnabledIXP2": "True",
+
+    "DFFlagPerformanceControlEnableMemoryProbing3": "True",
+    "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
+
+
+    "DFFlagRccLoadSoundLengthTelemetryEnabled": "False",
+    "DFFlagBrowserTrackerIdTelemetryEnabled": "False",
+  
+    "DFFlagReportAssetRequestV1Telemetry": "False",
+    "DFFlagGraphicsQualityUsageTelemetry": "False",
+
+
+    "DFFlagMaxDataPayloadSizePreciseCh": "True",
+
+    "DFFlagAudioUseVolumetricPanning": "True",
+
+    "DFFlagEnableTexturePreloading": "True",
+    "DFFlagDisableFastLogTelemetry": "True",
+    "DFFlagEnableMeshPreloading2": "False",
+    "DFFlagDebugSkipMeshVoxelizer": "True",
+    "DFFlagEnableSoundPreloading": "True",
+    "DFFlagDebugPauseVoxelizer": "True",
+
+    "DFFlagDisableDPIScale": "True",
+    "DFFlagDebugPerfMode": "True",
+
+    "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
+    "DFIntContentProviderPreloadHangTelemetryHundredthsPercentage": "0",
+    "DFIntRakNetClockDriftAdjustmentPerPingMillisecond": "100",
+    "DFIntPerformanceControlTextureQualityBestUtility": "-1",
+    "DFIntBandwidthManagerApplicationDefaultBps": "1024000",
+    "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": "8",
+    "DFIntNetworkClusterPacketCacheNumParallelTasks": "8",
+    "DFIntHACDPointSampleDistApartTenths": "2147483647",
+    "DFIntAnimationLodFacsVisibilityDenominator": "0",
+    "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
+    "DFIntReplicationDataCacheNumParallelTasks": "8",
+    "DFIntHeapProfilerMaxPayloadData": "2147483647",
+    "DFIntMaxProflingDataPayloadSize": "2147483647",
+    "DFIntMaxUREPayloadSingleLimit": "2147483647",
+    "DFIntRakNetNakResendDelayRttPercent": "50",
+    "DFIntWaitOnUpdateNetworkLoopEndedMS": "80",
+    "DFIntDebugDynamicRenderKiloPixels": "8294",
+    "DFIntPhysicsReceiveNumParallelTasks": "8",
+    "DFIntNumAssetsMaxToPreload": "2147483647",
+    "DFIntMegaReplicatorNumParallelTasks": "8",
+    "DFIntInterpolationNumParallelTasks": "8",
+    "DFIntTotalRepPayloadLimit": "2147483647",
+    "DFIntFileCacheReserveSize": "134217728 ",
+    "DFIntDebugFRMQualityLevelOverride": "1",
+    "DFIntAnimationLodFacsDistanceMin": "0",
+    "DFIntMaxDataPayloadSize": "2147483647",
+    "DFIntRccTcMaxPayloadSnd": "2147483647",
+    "DFIntCliTcMaxPayloadRcv": "2147483647",
+    "DFIntCliTcMaxPayloadSnd": "2147483647",
+    "DFIntRccTcMaxPayloadRcv": "2147483647",
+    "DFIntRakNetNakResendDelayMsMax": "80",
+    "DFIntRccMaxPayloadRcv": "2147483647",
+    "DFIntCliMaxPayloadSnd": "2147483647",
+    "DFIntCliMaxPayloadRcv": "2147483647",
+    "DFIntTaskSchedulerTargetFps": "999",
+    "DFIntAssetPreloading": "2147483647",
+    "DFIntRakNetNakResendDelayMs": "10",
+    "DFIntRakNetResendRttMultiple": "1",
+    "DFIntS2PhysicsSenderRate": "400",
+
+    "DFIntRuntimeConcurrency": "7",
+    "DFIntDataSenderRate": "400",
+    "DFIntRakNetLoopMs": "1",
+
+    "DFStringTelemetryV2Url": "null",
+
+    "DisableDPIScale": "True",
+
+    "EnableZstdForClientSettings": "False",
+
+    "FacialAnimationStreaming2": "False",
+
+    "FastGPULightCulling3": "True",
+
+    "FFlagContentProviderPreloadHangTelemetry": "False",
+
+    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+
+    "FFlagHandleAltEnterFullscreenManually": "False",
+    "FFlagDebugEnableDirectAudioOcclusion2": "True",
+    "FFlagLuaAppLegacyInputSettingRefactor": "True",
+    "FFlagDebugRenderingSetDeterministic": "True",
+    "FFlagDebugForceFSMCPULightCulling": "True",
+
+
+
+    "FFlagDebugCheckRenderThreading": "True",
+    "FFlagDebugGraphicsPreferD3D11": "True",
+    "FFlagUserShowGuiHideToggles": "True",
+
+    "FFlagFastGPULightCulling3": "True",
+
+    "FFlagAssetPreloadingIXP": "True",
+
+
+
+
+    "FIntTaskSchedulerMaxTempArenaSizeBytes": "2147483647 ",
+
+    "FIntTaskSchedulerAsyncTasksMinimumThreadCount": "4",
+    "FIntRenderMaxShadowAtlasUsageBeforeDownscale": "0",
+    "FIntSmoothClusterTaskQueueMaxParallelTasks": "8",
+    "FIntDebugFRMOptionalMSAALevelOverride": "1",
+    "FIntGrassMovementReducedMotionFactor": "0",
+    "FIntRakNetResendBufferArrayLength": "512",
+    "FIntCameraMaxZoomDistance": "2147483647",
+    "FIntSimWorldTaskQueueParallelTasks": "8",
+    "FIntTaskSchedulerAutoThreadLimit": "7",
+    "FIntRenderLocalLightUpdatesMin": "1",
+    "FIntRenderLocalLightUpdatesMax": "1",
+    "FIntLuaGcParallelMinMultiTasks": "8",
+    "FIntRenderLocalLightFadeInMs": "0",
+    "FIntUnifiedLightingBlendZone": "0",
+
+    "FIntDebugForceMSAASamples": "1",
+    "FIntTerrainArraySliceSize": "4",
+    "FIntRenderShadowmapBias": "0",
+    "FIntFontSizePadding": "0",
+    "FIntSSAOMipLevels": "0",
+
+    "FLogWndProcessCheck": "0",
+
+    "FLogNetwork": "-1",
+
+    "FRMMaxGrassDistance": "0",
+
+    "FRMMinGrassDistance": "0",
+
+
+
+
+    "FStringGetPlayerImageDefaultTimeout": "1",
+    "FStringTerrainMaterialTable2022": "",
+
+    "GameNetCompressionLodByteBudgetThresholdPct": "0",
+
+    "GameplayNetInterpolationDistanceCorrectionSampleMillionth": "1000000",
+
+    "GraphicsGLEnableSuperHQShadersExclusion": "False",
+    "GraphicsGLEnableHQShadersExclusion": "False",
+    "GraphicsQualityUsageTelemetry": "False",
+
+    "GrassMovementReducedMotionFactor": "0",
+
+    "HandleAltEnterFullscreenManually": "False",
+
+    "HighlightOutlinesOnMobile": "True",
+
+    "HSRClusterSymmetryDistancePercent": "10000",
+
+    "InitialAccelerationLatencyMultTenths": "1",
+
+    "InterpolationFrameRotVelocityThresholdMillionth": "1",
+    "InterpolationFramePositionThresholdMillionth": "1",
+    "InterpolationFrameVelocityThresholdMillionth": "1",
+    "InterpolationAwareTargetTimeLerpHundredth": "100",
+    "InterpolationNumMechanismsBatchSize": "4",
+    "InterpolationNumMechanismsPerTask": "4",
+    "InterpolationAwareTargetTime": "False",
+    "InterpolationNumParallelTasks": "350",
+    "InterpolationMinAssemblyCount": "1",
+    "InterpolationMaxDelayMSec": "500",
+
+    "JoinDataItemEstimatedCompressionRatioHundreths": "0",
+    "JoinDataCompressionLevel": "0",
+
+    "LargePacketQueueSizeCutoffMB": "1000",
+
+    "LuaAppLegacyInputSettingRefactor": "True",
+
+    "MaxReceiveToDeserializeLatencyMilliseconds": "10",
+    "MaxInterpolationRecursionsBeforeCheck": "50",
+    "MaxProcessPacketsStepsPerCyclic": "5000",
+    "MaxProcessPacketsStepsAccumulated": "0",
+    "MaxAverageFrameDelayExceedFactor": "0",
+    "MaxProcessPacketsJobScaling": "10000",
+    "MaxDataPacketPerSend": "100000",
+    "MaxAcceptableUpdateDelay": "1",
+    "MaxFrameBufferSize": "4",
+
+    "MegaReplicatorNetworkQualityProcessorUnit": "10",
+
+    "NetworkInProcessLimitGameplayMsClient": "0",
+    "NetworkQualityResponderMaxWaitTime": "1",
+    "NetworkSchemaCompressionRatio": "0",
+    "NetworkQualityResponderUnit": "10",
+
+    "NumFramesToKeepAfterInterpolation": "2",
+
+    "disable_RemoteEventSingleInvocationSizeLimit": "2900",
+
+    "RakNetApplicationFeedbackScaleUpFactorHundredthPercent": "0",
+    "RakNetApplicationFeedbackScaleUpThresholdPercent": "0",
+    "RakNetResendBufferArrayLength": "128",
+    "RakNetResendRttMultiple": "1",
+    "RakNetNakResendDelayMs": "1",
+    "RakNetSelectTimeoutMs": "1",
+    "RakNetEnablePoll": "True",
+    "RakNetLoopMs": "1",
+
+    "RaknetBandwidthPingSendEveryXSeconds": "1",
+
+    "RccLoadSoundLengthTelemetryEnabled": "False",
+
+    "RenderDebugCheckThreading2": "True",
+    "RenderLocalLightUpdatesMax": "2",
+    "RenderLocalLightUpdatesMin": "6",
+    "RenderLocalLightFadeInMs": "0",
+
+    "ReplicateCreateToPlayer": "True",
+
+    "ReportAssetRequestV1Telemetry": "False",
+
+    "RobloxGuiBlurIntensity": "0",
+
+    "RuntimeMaxNumOfConditions": "1000000",
+    "RuntimeMaxNumOfSemaphores": "1000000",
+    "RuntimeMaxNumOfSchedulers": "1000000",
+    "RuntimeMaxNumOfLatches": "1000000",
+    "RuntimeMaxNumOfThreads": "1000000",
+    "RuntimeMaxNumOfMutexes": "1000000",
+
+    "SimLocalBallSocketInterpolation": "True",
+    "SimSolverResponsiveness": "2147483647",
+
+    "SmoothMouseSpringFrequencyTenths": "100",
+
+    "TargetTimeDelayFacctorTenths": "13",
+
+    "TaskSchedulerThreadMin": "4",
+
+    "TerrainMaterialTablePre2022": "",
+    "TerrainMaterialTable2022": "",
+
+    "TM2SkipMipsForUnstreamable2": "True",
+
+    "TouchSenderMaxBandwidthBpsScaling": "0",
+
+    "TrackCountryRegionAPIHundredthsPercent": "10000",
+
+    "UseVisBugChecks": "False",
+
+    "UserCameraControlLastInputTypeUpdate": "False",
+
+    "VoiceChatVolumeThousandths": "6000",
+
+    "WaitOnUpdateNetworkLoopEndedMS": "100",
+    "WaitOnRecvFromLoopEndedMS": "10"
+}
